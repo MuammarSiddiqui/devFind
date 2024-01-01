@@ -1,0 +1,13 @@
+{
+    "name": "Muammar Siddiqui",
+    "location": "Karachi Pakistan",
+    "bio": "I'm Muammar Siddiqui, a dedicated .NET Core developer with over over 2 years of professional experience. I thrive on crafting high-quality, scalable applications in the ever-evolving world of web development.",
+    "avatar": "https://github.com/muammarsiddiqui.png",
+    "portfolio": "https://muammar-siddiqui.com/",
+    "skills": ["Asp .Net", "DotNet Core", "SQL", "MySQL", "AngularCLI", "Web Application Development", "Web Apis", "Asp .Net Core"],
+    "social": {
+      "GitHub": "https://github.com/muammarsiddiqui",
+      "Twitter": "https://twitter.com/muammarsiddiqui",
+      "LinkedIn": "https://www.linkedin.com/in/muammarsiddiqui"
+    }
+  }
